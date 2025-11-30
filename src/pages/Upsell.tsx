@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { AlertCircle, Check, ArrowRight, X } from 'lucide-react';
+import { AlertCircle, Check } from 'lucide-react';
 
 export default function Upsell() {
   return (

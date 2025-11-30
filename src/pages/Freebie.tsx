@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Calendar, Download, CheckCircle, ArrowRight } from 'lucide-react';
+import { Calendar, Download, CheckCircle } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 export default function Freebie() {

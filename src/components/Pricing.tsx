@@ -1,4 +1,4 @@
-import { Check, Info } from 'lucide-react';
+import { Check } from 'lucide-react';
 
 const PricingItem = ({ 
   name, 
